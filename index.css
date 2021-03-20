@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://i.pinimg.com/originals/3d/a2/ca/3da2ca1182039ccf96e4902c3d50f025.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+}
+#generate-button {
+  width: 250px;
+  float: right;
+  z-index: 100;
+  outline: none;
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+  position: fixed;
+  margin: 20px 30px;
+  padding: 15px 20px;
+  border-radius: 35px;
+  background: indigo;
+  border: 1px indigo solid;
+}
